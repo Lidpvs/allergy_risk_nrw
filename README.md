@@ -71,7 +71,17 @@ Main predictors:
 
 Feature importance showed that **pollen levels are the strongest predictor**, followed by air pollution and temperature.
 
+![Feature Importance](assets/plots/feature_importance.png)
+
 ---
+
+![Feature Correlation Matrix].(assets/plots/feature_correlation_matrix.png)
+
+---
+
+# Risk Distribution 
+
+![Risk Distribution].(assets/plots/risk_distribution.png)
 
 # 🔮 Forecasting
 
