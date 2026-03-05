@@ -132,12 +132,6 @@ allergy_risk_nrw
 
 ---
 
-# 👩‍💻 Author
-
-Created as a Data Science project exploring environmental health prediction models.
----
-
-
 # How to run the project
 
 Clone the repository:
@@ -163,6 +157,7 @@ allergy_risk_prediction.ipynb
 
 ---
 
-# Project Goal
+# 👩‍💻 Author
 
-This project explores how environmental data can be used to estimate allergy risk and help people prepare for high-pollen days.
+Created as a Data Science project exploring environmental health prediction models.
+---
