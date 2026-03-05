@@ -101,11 +101,17 @@ Matplotlib
 
 allergy_risk_nrw
 │
+
 ├── allergy_risk_model.ipynb
+
 ├── README.md
+
 ├── requirements.txt
+
 └── assets
+
 ├── plots
+
 └── images
 
 ---
