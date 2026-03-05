@@ -136,3 +136,32 @@ allergy_risk_nrw
 Created as a Data Science project exploring environmental health prediction models.
 ---
 
+
+# How to run the project
+
+Clone the repository:
+
+git clone https://github.com/Lidpvs/allergy_risk_nrw.git
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Open the notebook:
+
+allergy_risk_prediction.ipynb
+
+---
+
+# Key Insights
+
+• Pollen index is the strongest predictor of allergy risk  
+• Air pollution (PM10) significantly increases risk  
+• Weather variables (temperature and wind) also contribute  
+• Neural networks and Random Forest achieve similar performance
+
+---
+
+# Project Goal
+
+This project explores how environmental data can be used to estimate allergy risk and help people prepare for high-pollen days.
