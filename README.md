@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
+![DL](https://img.shields.io/badge/Deep%20Learning-PyTorch-red)
+![Status](https://img.shields.io/badge/status-finished-success)
+
 # 🌿 Allergy Risk Prediction (NRW)
 
 Machine Learning project for predicting **daily allergy risk** in North Rhine-Westphalia cities using:
