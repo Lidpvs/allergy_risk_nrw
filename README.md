@@ -121,4 +121,3 @@ allergy_risk_nrw
 Created as a Data Science project exploring environmental health prediction models.
 ---
 
-# 📁 Repository Structure
