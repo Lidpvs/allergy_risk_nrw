@@ -5,13 +5,33 @@
 
 # 🌿 Allergy Risk Prediction (NRW)
 
-Machine Learning project for predicting **daily allergy risk** in North Rhine-Westphalia cities using:
+This project predicts allergy risk levels in cities of North Rhine-Westphalia using environmental data.
+
+The model combines:
 
 - 🌾 pollen data
 - 🌫 air pollution (PM10)
 - 🌦 weather data
 
-The goal is to estimate the **risk level for people with allergies** based on environmental conditions.
+Two models were trained:
+
+• Random Forest  
+• Neural Network (PyTorch)
+
+The system can also estimate **future allergy risk for the next days**.
+
+---
+
+## Project Pipeline
+
+1. Data collection (weather, pollen, air pollution)
+2. Data cleaning and preprocessing
+3. Feature engineering (pollen_index, pm_index)
+4. Risk score calculation
+5. Binary classification (risk / no risk)
+6. Model training (Random Forest + Neural Network)
+7. Model evaluation
+8. Risk forecasting
 
 ---
 
