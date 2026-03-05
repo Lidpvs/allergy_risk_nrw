@@ -108,11 +108,11 @@ allergy_risk_nrw
 
 ├── requirements.txt
 
-└── assets
+├── assets
 
 ├── plots
 
-└── images
+├── images
 
 ---
 
