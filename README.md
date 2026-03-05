@@ -73,6 +73,7 @@ Feature importance showed that **pollen levels are the strongest predictor**, fo
 
 ![Feature Importance](assets/plots/feature_importance.png)
 
+---
 
 ![Feature Correlation Matrix](assets/plots/feature_correlation_matrix.png)
 
